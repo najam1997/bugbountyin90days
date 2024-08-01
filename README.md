@@ -9,4 +9,4 @@ Started: 28th June 2024
 
 ## Week 1 (Basics):
 ### Day 1:
-- [✔️] []()
+- [⭕] []()
