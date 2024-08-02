@@ -7,8 +7,8 @@ Started: 1st Aug 2024
    ❌ : Incomplete  
    ⭕ : In progress  
 
-## Week 1 (Basics):
+## Week 1 (Cross Site Scripting):
 ### Day 1:
-- [⭕] []()
+- [✔️] Learn [Basics](https://portswigger.net/web-security/cross-site-scripting)
 ### Day 2:
 - [⭕] []()
