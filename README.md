@@ -1,6 +1,6 @@
 # Conquering the process of Bug Bounty
 Making this repository for beginners in bug bounty.   
-Started: 28th June 2024
+Started: 1st Aug 2024
 
 **Key:**  
    ✔️ : Completed  
