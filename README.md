@@ -12,3 +12,5 @@ Started: 1st Aug 2024
 - [✔️] Learn [Basics](https://portswigger.net/web-security/cross-site-scripting)
 ### Day 2:
 - [⭕] []()
+### Day 3:
+- [⭕] []()
