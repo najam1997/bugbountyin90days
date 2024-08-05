@@ -11,7 +11,7 @@ Started: 1st Aug 2024
 ### Day 1:
 - [✔️] Learn [Basics](https://portswigger.net/web-security/cross-site-scripting)
 ### Day 2:
-- [⭕] Learn the details of [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
+- [✔️] Learn the details of [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
 ### Day 3:
 - [⭕] Completed the labs of [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
 ### Day 4:
