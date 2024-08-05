@@ -13,6 +13,8 @@ Started: 1st Aug 2024
 ### Day 2:
 - [⭕] Learn the details of [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
 ### Day 3:
-- [⭕] []()
+- [⭕] Completed the labs of [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
 ### Day 4:
+- [⭕] []()
+### Day 5:
 - [⭕] []()
