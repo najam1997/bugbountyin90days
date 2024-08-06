@@ -15,7 +15,7 @@ Started: 1st Aug 2024
 ### Day 3:
 - [⭕] Completed the labs of [Reflected XSS](https://portswigger.net/web-security/cross-site-scripting/reflected)
 ### Day 4:
-- [⭕] []()
+- [⭕] Started [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored)
 ### Day 5:
 - [⭕] []()
 ### Day 6:
