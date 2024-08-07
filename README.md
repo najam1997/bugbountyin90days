@@ -17,6 +17,8 @@ Started: 1st Aug 2024
 ### Day 4:
 - [✔️] Started [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored)
 ### Day 5:
-- [⭕] []()
+- [⭕] Continued Started [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored)
 ### Day 6:
+- [⭕] []()
+### Day 7:
 - [⭕] []()
