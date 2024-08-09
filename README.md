@@ -19,9 +19,9 @@ Started: 1st Aug 2024
 ### Day 5:
 - [⭕] Continued [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored)
 ### Day 6:
-- [⭕] []()
+- [⭕] Started [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
 ### Day 7:
-- [⭕] []()
+- [⭕] Completed [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
 ## Week 2 (Cross Site Scripting):
 ### Day 8:
 - [⭕] []()
