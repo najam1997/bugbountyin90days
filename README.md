@@ -25,3 +25,5 @@ Started: 1st Aug 2024
 ## Week 2 (Cross Site Scripting):
 ### Day 8:
 - [⭕] []()
+### Day 9:
+- [⭕] []()
