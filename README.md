@@ -24,7 +24,7 @@ Started: 1st Aug 2024
 - [✔️] Completed [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
 ## Week 2 (Cross Site Scripting):
 ### Day 8:
-- [✔️] Started Revising all XSS concepts including Labs.
+- [✔️] Started Revising all XSS concepts including some Labs.
 ### Day 9:
 - [✔️] Completed Revision.
 ### Day 10:
