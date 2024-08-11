@@ -17,16 +17,16 @@ Started: 1st Aug 2024
 ### Day 4:
 - [✔️] Started [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored)
 ### Day 5:
-- [⭕] Continued [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored)
+- [✔️] Continued [Stored XSS](https://portswigger.net/web-security/cross-site-scripting/stored)
 ### Day 6:
-- [⭕] Started [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
+- [✔️] Started [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
 ### Day 7:
-- [⭕] Completed [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
+- [✔️] Completed [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
 ## Week 2 (Cross Site Scripting):
 ### Day 8:
-- [⭕] []()
+- [✔️] Started Revising all XSS concepts including Labs.
 ### Day 9:
-- [⭕] []()
+- [✔️] Completed Revision.
 ### Day 10:
 - [⭕] []()
 ### Day 11:
