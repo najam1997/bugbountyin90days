@@ -28,6 +28,6 @@ Started: 1st Aug 2024
 ### Day 9:
 - [✔️] Completed Revision.
 ### Day 10:
-- [⭕] []()
+- [⭕] [Learn JS through tutorials]()
 ### Day 11:
-- [⭕] []()
+- [⭕] [Learn JS through tutorials]()
