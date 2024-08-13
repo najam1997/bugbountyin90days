@@ -33,3 +33,5 @@ Started: 1st Aug 2024
 - [⭕] [Learn JS through tutorials]()
 ### Day 12:
 - [⭕] []()
+### Day 13:
+- [⭕] []()
