@@ -7,7 +7,7 @@ Started: 1st Aug 2024
    ❌ : Incomplete  
    ⭕ : In progress  
 
-## Week 1 (Cross Site Scripting):
+## Week 1 (Cross Site Scripting Basics):
 ### Day 1:
 - [✔️] Learn [Basics](https://portswigger.net/web-security/cross-site-scripting)
 ### Day 2:
@@ -22,7 +22,7 @@ Started: 1st Aug 2024
 - [✔️] Started [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
 ### Day 7:
 - [✔️] Completed [DOM Based XSS](https://portswigger.net/web-security/cross-site-scripting/dom-based)
-## Week 2 (Cross Site Scripting):
+## Week 2 (Javascript Basics):
 ### Day 8:
 - [✔️] Started Revising all XSS concepts including some Labs.
 ### Day 9:
