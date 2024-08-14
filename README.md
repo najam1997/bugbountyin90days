@@ -29,9 +29,9 @@ Started: 1st Aug 2024
 - [✔️] Completed Revision.
 ### Day 10:
 - [✔️] [Learn JS through tutorial 1](https://www.youtube.com/watch?v=W6NZfCO5SIk)
-### Day 11:
-- [⭕] [Learn JS through tutorials]()
-### Day 12:
-- [⭕] []()
+### Day 11 and 12:
+- [⭕] [JS introduction and Fundamentals](https://javascript.info/)
 ### Day 13:
+- [⭕] []()
+### Day 14:
 - [⭕] []()
