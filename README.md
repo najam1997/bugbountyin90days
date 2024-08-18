@@ -31,8 +31,10 @@ Started: 1st Aug 2024
 - [✔️] [Learn JS through tutorial 1](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 ### Day 11 and 12:
 - [✔️] [JS introduction and Fundamentals](https://javascript.info/)
-### Day 13 and 14:
-- [✔️] [JS Code Quality and Objects Basics](https://javascript.info/)
+### Day 13:
+- [✔️] [JS Code Quality](https://javascript.info/)
+### Day 14:
+- [✔️] Started [JS Browser: Document](https://javascript.info/)
 ## Week 3 (Javascript Basics 2):
 ### Day 15:
 - [⭕] []()
