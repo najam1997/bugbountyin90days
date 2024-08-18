@@ -37,7 +37,7 @@ Started: 1st Aug 2024
 - [✔️] Started [JS Browser: Document](https://javascript.info/)
 ## Week 3 (Javascript Basics 2):
 ### Day 15:
-- [⭕] []()
+- [⭕] Continued [JS Browser: Document](https://javascript.info/searching-elements-dom)
 ### Day 16:
 - [⭕] []()
 ### Day 17:
