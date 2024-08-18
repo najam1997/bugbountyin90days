@@ -39,7 +39,7 @@ Started: 1st Aug 2024
 ### Day 15:
 - [✔️] Continued [JS Browser: Document](https://javascript.info/searching-elements-dom)
 ### Day 16:
-- [⭕] []()
+- [⭕] Continued [JS Browser: Document](https://javascript.info/basic-dom-node-properties)
 ### Day 17:
 - [⭕] []()
 ### Day 18:
