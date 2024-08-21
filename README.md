@@ -35,7 +35,7 @@ Started: 1st Aug 2024
 - [✔️] [JS Code Quality](https://javascript.info/)
 ### Day 14:
 - [✔️] Started [JS Browser: Document](https://javascript.info/)
-## Week 3 (Javascript Basics 2):
+## Week 3 (Javascript Basics 2 and started learning Recon. Basics):
 ### Day 15:
 - [✔️] Continued [JS Browser: Document](https://javascript.info/searching-elements-dom)
 ### Day 16:
@@ -48,5 +48,6 @@ Started: 1st Aug 2024
 - [⭕] []()
 ### Day 20:
 - [⭕] []()
+- [✔️] [Enumeration Day 1](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 21:
 - [⭕] []()
