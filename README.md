@@ -58,3 +58,7 @@ Started: 1st Aug 2024
 - [✔️] [Enumeration Day 3](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 23:
 - [⭕] []()
+### Day 24:
+- [⭕] []()
+### Day 25:
+- [⭕] []()
