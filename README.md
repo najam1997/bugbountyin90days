@@ -61,9 +61,10 @@ Started: 1st Aug 2024
 - [✔️] [Enumeration Day 4](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 24:
 - [⭕] []()
-- [✔️] [Enumeration Day 4](https://github.com/najam1997/CyberSecurityResearch)
+- [✔️] [Enumeration Day 5](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 25:
 - [⭕] []()
+- [✔️] [Enumeration Day 6](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 26:
 - [⭕] []()
 ### Day 27:
