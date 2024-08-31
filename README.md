@@ -1,4 +1,4 @@
-# Conquering the process of Bug Bounty
+sq# Conquering the process of Bug Bounty
 Making this repository for beginners in bug bounty.   
 Started: 1st Aug 2024
 
@@ -51,7 +51,7 @@ Now that we are done with JS basics. We will move back to XSS.
 - [⭕] [Browser Security Model](https://aszx87410.github.io/beyond-xss/en/ch1/browser-security-model/)
 - [✔️] [Enumeration Day 1](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 21:
-- [⭕] []()
+- [⭕] [JS: pseudo orotcol](https://aszx87410.github.io/beyond-xss/en/ch1/javascript-protocol/)
 - [✔️] [Enumeration Day 2](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 4 ():
 ### Day 22:
