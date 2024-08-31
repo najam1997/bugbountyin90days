@@ -46,10 +46,9 @@ Started: 1st Aug 2024
 Now that we are done with JS basics. We will move back to XSS.
 ### Day 18:
 - [✔️] Watched some Dom-based XSS tutorials on Youtube.
-### Day 19:
-- [⭕] Started [Beyond XSS](https://aszx87410.github.io/beyond-xss/en/)
-### Day 20:
-- [⭕] []()
+### Day 19 and 20:
+- [✔️] Started [Beyond XSS](https://aszx87410.github.io/beyond-xss/en/)
+- [⭕] [Browser Security Model](https://aszx87410.github.io/beyond-xss/en/ch1/browser-security-model/)
 - [✔️] [Enumeration Day 1](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 21:
 - [⭕] []()
