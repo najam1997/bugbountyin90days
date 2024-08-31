@@ -42,8 +42,10 @@ Started: 1st Aug 2024
 - [✔️] Continued [JS Browser: Document](https://javascript.info/basic-dom-node-properties)
 ### Day 17:
 - [✔️] Started [Attributes and Properties](https://javascript.info/dom-attributes-and-properties)
+### Note: 
+Now that we are done with JS basics. We will move back to XSS.
 ### Day 18:
-- [⭕] []()
+- [✔️] Watched some Dom-based XSS tutorials on Youtube.
 ### Day 19:
 - [⭕] []()
 ### Day 20:
