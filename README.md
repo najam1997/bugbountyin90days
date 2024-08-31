@@ -48,10 +48,10 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Watched some Dom-based XSS tutorials on Youtube.
 ### Day 19 and 20:
 - [✔️] Started [Beyond XSS](https://aszx87410.github.io/beyond-xss/en/)
-- [⭕] [Browser Security Model](https://aszx87410.github.io/beyond-xss/en/ch1/browser-security-model/)
+- [✔️] [Browser Security Model](https://aszx87410.github.io/beyond-xss/en/ch1/browser-security-model/)
 - [✔️] [Enumeration Day 1](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 21:
-- [⭕] [JS: pseudo orotcol](https://aszx87410.github.io/beyond-xss/en/ch1/javascript-protocol/)
+- [✔️] [JS: pseudo orotcol](https://aszx87410.github.io/beyond-xss/en/ch1/javascript-protocol/)
 - [✔️] [Enumeration Day 2](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 4 ():
 ### Day 22:
