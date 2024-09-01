@@ -64,7 +64,7 @@ Now that we are done with JS basics. We will move back to XSS.
 - [⭕] Almost Completed [Chapter 2](https://aszx87410.github.io/beyond-xss/en/ch2/mutation-xss/)
 - [✔️] [Enumeration Day 5](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 25:
-- [⭕] []()
+- [⭕] Developer Tools[]()
 - [✔️] [Enumeration Day 6](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 26:
 - [⭕] []()
