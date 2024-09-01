@@ -58,10 +58,10 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Completed [Chapter 1](https://aszx87410.github.io/beyond-xss/en/ch1/browser-security-model/) and started Chapter 2.
 - [✔️] [Enumeration Day 3](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 23:
-- [⭕] Started [CSP](https://aszx87410.github.io/beyond-xss/en/ch2/xss-defense-csp/)
+- [✔️] Started [CSP](https://aszx87410.github.io/beyond-xss/en/ch2/xss-defense-csp/)
 - [✔️] [Enumeration Day 4](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 24:
-- [⭕] []()
+- [⭕] Almost Completed [Chapter 2](https://aszx87410.github.io/beyond-xss/en/ch2/mutation-xss/)
 - [✔️] [Enumeration Day 5](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 25:
 - [⭕] []()
