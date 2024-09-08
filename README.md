@@ -60,20 +60,12 @@ Now that we are done with JS basics. We will move back to XSS.
 ### Day 23:
 - [✔️] Started [CSP](https://aszx87410.github.io/beyond-xss/en/ch2/xss-defense-csp/)
 - [✔️] [Enumeration Day 4](https://github.com/najam1997/CyberSecurityResearch)
-### Day 24:
-- [⭕] Almost Completed [Chapter 2](https://aszx87410.github.io/beyond-xss/en/ch2/mutation-xss/)
+### Days 24 and 25:
+- [✔️] Completed [Chapter 2](https://aszx87410.github.io/beyond-xss/en/ch2/)
 - [✔️] [Enumeration Day 5](https://github.com/najam1997/CyberSecurityResearch)
-### Day 25:
-- [⭕] Developer Tools[]()
-- [✔️] [Enumeration Day 6](https://github.com/najam1997/CyberSecurityResearch)
-### Day 26:
-- [⭕] []()
-- [✔️] [Enumeration Day 7](https://github.com/najam1997/CyberSecurityResearch)
-### Day 27:
-- [⭕] []()
-- [✔️] [Enumeration Day 8](https://github.com/najam1997/CyberSecurityResearch)
-### Day 28:
-- [⭕] []()
+### Day 26 to 28:
+- [✔️] Learnt to use [Google Developer Tools](https://developer.chrome.com/docs/devtools/overview)
+- [✔️] [Enumeration Day 6 to 9](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 5 ():
 ### Day 29:
 - [⭕] []()
