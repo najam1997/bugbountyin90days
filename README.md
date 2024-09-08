@@ -80,3 +80,5 @@ Now that we are done with JS basics. We will move back to XSS.
 - [⭕] []()
 ### Day 38:
 - [⭕] []()
+### Day 39:
+- [⭕] []()
