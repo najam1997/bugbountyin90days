@@ -68,10 +68,10 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Enumeration [Days 6 to 9](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 5 (XSS real-world scenarios):
 ### Day 29 to 35:
-- [⭕] [Read multiple Reports on Medium and infosec Writeups regarding various types of reported XSS vulnerabilities]()
-- [⭕] [Watched multiple XSS POCs on Youtube]()
-- [⭕] []()
-- [⭕] []()
+- [✔️] Read multiple Reports on Medium and infosec Writeups regarding various types of reported XSS vulnerabilities[]()
+- [✔️] Watched multiple XSS POCs on Youtube[]()
+- [✔️] Learnt to Used Chrome Dev Tools to find DOM Based XSS[]()
+- [⭕] Started Portswigger Labs on XSS[]()
 - [✔️] Enumeration [Days 10 to 16](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 5 ():
 ### Day 36:
