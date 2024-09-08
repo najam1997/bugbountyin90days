@@ -65,22 +65,14 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] [Enumeration Day 5](https://github.com/najam1997/CyberSecurityResearch)
 ### Day 26 to 28:
 - [✔️] Learnt to use [Google Developer Tools](https://developer.chrome.com/docs/devtools/overview)
-- [✔️] [Enumeration Day 6 to 9](https://github.com/najam1997/CyberSecurityResearch)
-## Week 5 ():
-### Day 29:
+- [✔️] Enumeration [Days 6 to 9](https://github.com/najam1997/CyberSecurityResearch)
+## Week 5 (XSS real-world scenarios):
+### Day 29 to 35:
+- [⭕] [Read multiple Reports on Medium and infosec Writeups regarding various types of reported XSS vulnerabilities]()
+- [⭕] [Watched multiple XSS POCs on Youtube]()
 - [⭕] []()
-### Day 30:
 - [⭕] []()
-### Day 31:
-- [⭕] []()
-### Day 32:
-- [⭕] []()
-### Day 33:
-- [⭕] []()
-### Day 34:
-- [⭕] []()
-### Day 35:
-- [⭕] []()
+- [✔️] Enumeration [Days 10 to 16](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 5 ():
 ### Day 36:
 - [⭕] []()
