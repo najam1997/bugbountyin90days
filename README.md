@@ -71,15 +71,11 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Read multiple Reports on Medium and infosec Writeups regarding various types of reported XSS vulnerabilities[]()
 - [✔️] Watched multiple XSS POCs on Youtube[]()
 - [✔️] Learnt to Used Chrome Dev Tools to find DOM Based XSS[]()
-- [✔️] Started Portswigger Labs on XSS[]()
+- [✔️] Revised Portswigger Labs on DOM Based XSS[]()
 - [✔️] Mobile Application Research [Days 1 to 5](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 5 ():
-### Days 36 and 37:
-- [✔️] Worked on finding DOM based XSS sinks on Github[]()
-### Day 37:
-- [✔️] []()
-### Day 38:
-- [✔️] []()
+### Days 36 to 38:
+- [✔️] Worked on finding DOM based XSS sinks on Github along with Client-Side debugging[]()
 ### Day 39:
 - [⭕] []()
 ### Day 40:
