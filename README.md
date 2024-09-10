@@ -67,19 +67,19 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Learnt to use [Google Developer Tools](https://developer.chrome.com/docs/devtools/overview)
 - [✔️] Enumeration [Days 6 to 9](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 5 (XSS real-world scenarios):
-### Day 29 to 35:
+### Days 29 to 35:
 - [✔️] Read multiple Reports on Medium and infosec Writeups regarding various types of reported XSS vulnerabilities[]()
 - [✔️] Watched multiple XSS POCs on Youtube[]()
 - [✔️] Learnt to Used Chrome Dev Tools to find DOM Based XSS[]()
-- [⭕] Started Portswigger Labs on XSS[]()
-- [✔️] Enumeration [Days 10 to 16](https://github.com/najam1997/CyberSecurityResearch)
+- [✔️] Started Portswigger Labs on XSS[]()
+- [✔️] Mobile Application Research [Days 1 to 5](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 5 ():
-### Day 36:
-- [⭕] []()
+### Days 36 and 37:
+- [✔️] Worked on finding DOM based XSS sinks on Github[]()
 ### Day 37:
-- [⭕] []()
+- [✔️] []()
 ### Day 38:
-- [⭕] []()
+- [✔️] []()
 ### Day 39:
 - [⭕] []()
 ### Day 40:
