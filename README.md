@@ -1,4 +1,4 @@
-sq# Conquering the process of Bug Bounty
+# Conquering the process of Bug Bounty
 Making this repository for beginners in bug bounty.   
 Started: 1st Aug 2024
 
