@@ -77,7 +77,7 @@ Now that we are done with JS basics. We will move back to XSS.
 ### Days 36 to 38:
 - [✔️] Worked on finding DOM based XSS sinks on Github along with Client-Side debugging[]()
 ### Day 39:
-- [✔️] Revised Portswigger Labs on DOM Based XSS[]()
+- [✔️] Revised Portswigger Labs on DOM Based XSS and searched for potential sinks in real-world applications.
 ### Day 40:
 - [⭕] []()
 ### Day 41:
