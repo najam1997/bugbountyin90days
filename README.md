@@ -80,3 +80,4 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Revised Portswigger Labs on DOM Based XSS and searched for potential sinks in real-world applications.
 - [✔️] Enumeration [Days 10](https://github.com/najam1997/CyberSecurityResearch)
 ## Week 6 ():
+### Days 43 to 45:
