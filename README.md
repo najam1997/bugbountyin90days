@@ -82,7 +82,7 @@ Now that we are done with JS basics. We will move back to XSS.
 ## Week 6 ():
 ### Days 43 to 49:
 - [✔️] 1 and a 1/2 day
-- [⭕] Test
+- [✔️] Researched for tools to perform [Automated XSS](https://github.com/payloadbox/xss-payload-list)
 ## Week 7 ():
 ### Days 50 and 51:
 - [⭕] 
