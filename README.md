@@ -79,10 +79,15 @@ Now that we are done with JS basics. We will move back to XSS.
 ### Day 39 to 42:
 - [✔️] Revised Portswigger Labs on DOM Based XSS and searched for potential sinks in real-world applications.
 - [✔️] Enumeration [Day 10](https://github.com/najam1997/CyberSecurityResearch)
-## Week 6 ():
+## Week 6 (Mastering XSS - Escaping Characters):
 ### Days 43 to 49:
-- [✔️] 1 and a 1/2 day
+- [✔️] Completed Remaining DOM Based XSS Labs on Portswigger
+- [✔️] Started XSS [Challenges](http://sudo.co.li/xss)
 - [✔️] Researched for tools to perform [Automated XSS](https://github.com/payloadbox/xss-payload-list)
-## Week 7 ():
-### Days 50 and 51:
-- [⭕] 
+## Week 7 (Mastering XSS - Breaking Logic):
+### Days 50 to 56:
+- [✔️] Completed XSS [Challenges](http://sudo.co.li/xss) upto Level 10.
+- [✔️] Enumeration [Day 10](https://github.com/najam1997/CyberSecurityResearch)
+- [⭕]
+## Week 8 ():
+- [⭕]
