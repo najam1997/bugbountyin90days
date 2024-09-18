@@ -92,5 +92,5 @@ Now that we are done with JS basics. We will move back to XSS.
 ## Week 8 ():
 ### Days 57 to 60:
 - [✔️] Completed Intigriti's [December 2022 Challenge](https://www.intigriti.com/hackademy/xss-challenges)
-- [✔️] Enumeration [Day 11](https://github.com/najam1997/CyberSecurityResearch)
+- [✔️] Enumeration [Day 11 and 12](https://github.com/najam1997/CyberSecurityResearch)
 - [⭕]
