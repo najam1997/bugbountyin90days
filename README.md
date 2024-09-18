@@ -88,9 +88,9 @@ Now that we are done with JS basics. We will move back to XSS.
 ### Days 50 to 56:
 - [✔️] Completed XSS [Challenges](http://sudo.co.li/xss) upto Level 10.
 - [✔️] Enumeration [Day 10](https://github.com/najam1997/CyberSecurityResearch)
-- [⭕] Started Intigriti's [XSS Challenges](https://www.intigriti.com/hackademy/xss-challenges)
+- [✔️] Started Intigriti's [XSS Challenges](https://www.intigriti.com/hackademy/xss-challenges)
 ## Week 8 ():
 ### Days 57 to 60:
-- [⭕]
-- [⭕]
+- [✔️] Completed Intigriti's [December 2022 Challenge](https://www.intigriti.com/hackademy/xss-challenges)
+- [✔️] Enumeration [Day 11](https://github.com/najam1997/CyberSecurityResearch)
 - [⭕]
