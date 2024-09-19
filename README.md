@@ -93,4 +93,8 @@ Now that we are done with JS basics. We will move back to XSS.
 ### Days 57 to 60:
 - [✔️] Completed Intigriti's [December 2022 Challenge](https://www.intigriti.com/hackademy/xss-challenges)
 - [✔️] Enumeration [Day 11 and 12](https://github.com/najam1997/CyberSecurityResearch)
-- [⭕]
+- [⭕] 
+### Days 61 to 63:
+- [✔️] Started Intigriti's [November 2022 Challenge](https://www.intigriti.com/hackademy/xss-challenges)
+- [✔️] Researched on Client Side Vulnerabilities mainly XSS through understanding the work Youssef Sammouda.
+- [⭕] 
