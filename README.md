@@ -89,12 +89,15 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Completed XSS [Challenges](http://sudo.co.li/xss) upto Level 10.
 - [✔️] Enumeration [Day 10](https://github.com/najam1997/CyberSecurityResearch)
 - [✔️] Started Intigriti's [XSS Challenges](https://www.intigriti.com/hackademy/xss-challenges)
-## Week 8 ():
-### Days 57 to 60:
+## Week 8 (Client-Side Vulnerabilities and Reconnaissance):
+### Days 57 to 61:
 - [✔️] Completed Intigriti's [December 2022 Challenge](https://www.intigriti.com/hackademy/xss-challenges)
 - [✔️] Enumeration [Day 11 and 12](https://github.com/najam1997/CyberSecurityResearch)
-- [⭕] 
-### Days 61 to 63:
+- [✔️] Started Practicing JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
+- [✔️] Completed Leetcode module until Day 3.
+### Days 62 and 63:
 - [✔️] Started Intigriti's [November 2022 Challenge](https://www.intigriti.com/hackademy/xss-challenges)
 - [✔️] Researched on Client Side Vulnerabilities mentioned in [Day 5](https://github.com/najam1997/CyberSecurityResearch)
-- [⭕] 
+## Week 8 (Client-Side Vulnerabilities and Reconnaissance):
+### Days 64 to 66:
+- [⭕]
