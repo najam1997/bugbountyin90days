@@ -73,23 +73,23 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Learnt to Used Chrome Dev Tools to find DOM Based XSS[]()
 - [✔️] Revised Portswigger Labs on DOM Based XSS[]()
 - [✔️] Mobile Application Research [Days 1 to 5](https://github.com/najam1997/CyberSecurityResearch)
-## Week 5 (Strengthened XSS concepts for real-world scenarios):
+## Week 6 (Strengthened XSS concepts for real-world scenarios):
 ### Days 36 to 38:
 - [✔️] Worked on finding DOM based XSS sinks on Github along with Client-Side debugging[]()
 ### Day 39 to 42:
 - [✔️] Revised Portswigger Labs on DOM Based XSS and searched for potential sinks in real-world applications.
 - [✔️] Enumeration [Day 10](https://github.com/najam1997/CyberSecurityResearch)
-## Week 6 (Mastering XSS - Escaping Characters):
+## Week 7 (Mastering XSS - Escaping Characters):
 ### Days 43 to 49:
 - [✔️] Completed Remaining DOM Based XSS Labs on Portswigger
 - [✔️] Started XSS [Challenges](http://sudo.co.li/xss)
 - [✔️] Researched for tools to perform [Automated XSS](https://github.com/payloadbox/xss-payload-list)
-## Week 7 (Mastering XSS - Breaking Logic):
+## Week 8 (Mastering XSS - Breaking Logic):
 ### Days 50 to 56:
 - [✔️] Completed XSS [Challenges](http://sudo.co.li/xss) upto Level 10.
 - [✔️] Enumeration [Day 10](https://github.com/najam1997/CyberSecurityResearch)
 - [✔️] Started Intigriti's [XSS Challenges](https://www.intigriti.com/hackademy/xss-challenges)
-## Week 8 (Client-Side Vulnerabilities and Reconnaissance):
+## Week 9 (Client-Side Vulnerabilities and Reconnaissance):
 ### Days 57 to 61:
 - [✔️] Completed Intigriti's [December 2022 Challenge](https://www.intigriti.com/hackademy/xss-challenges)
 - [✔️] Enumeration [Day 11 and 12](https://github.com/najam1997/CyberSecurityResearch)
@@ -98,10 +98,10 @@ Now that we are done with JS basics. We will move back to XSS.
 ### Days 62 and 63:
 - [✔️] Started Intigriti's [November 2022 Challenge](https://www.intigriti.com/hackademy/xss-challenges)
 - [✔️] Researched on Client Side Vulnerabilities mentioned in [Day 5](https://github.com/najam1997/CyberSecurityResearch)
-## Week 8 (Client-Side Vulnerabilities and Reconnaissance):
+## Week 10 (Client-Side Vulnerabilities and Reconnaissance):
 ### Days 64 to 70:
 - [✔️] Enumeration [Day 13](https://github.com/najam1997/CyberSecurityResearch)
 - [✔️] Enumeration [Day 14](https://github.com/najam1997/CyberSecurityResearch)
 - [⭕]
-## Week 9 (Client-Side Vulnerabilities and Reconnaissance):
-### Days 71 and 72:
+## Week 11 (Client-Side Vulnerabilities and Reconnaissance):
+### Days 71 and 75:
