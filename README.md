@@ -104,4 +104,6 @@ Now that we are done with JS basics. We will move back to XSS.
 - [✔️] Enumeration [Day 14](https://github.com/najam1997/CyberSecurityResearch)
 - [⭕]
 ## Week 11 (Client-Side Vulnerabilities and Reconnaissance):
-### Days 71 and 75:
+### Days 71 to 77:
+## Week 12 (Client-Side Vulnerabilities and Reconnaissance):
+### Days 78 to 81:
