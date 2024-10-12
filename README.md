@@ -1,6 +1,6 @@
 # Conquering the process of Bug Bounty
-Making this repository for beginners in bug bounty. Aim is to master reconnaissance techniques and gain intermediate-level experience as a Client-Side vulnerabilities' Bounty Hunter.
-Started: 1st Aug 2024
+Making this repository for beginners in bug bounty. Aim is to master reconnaissance techniques and gain intermediate-level experience as a Client-Side vulnerabilities' Bounty Hunter.   
+   Started: 1st Aug 2024
 
 **Pre-requisite:** Make sure you've good understanding of JS. You can also refer my [path](https://github.com/najam1997/30DaysOfJS/blob/main/README.md) 
 
