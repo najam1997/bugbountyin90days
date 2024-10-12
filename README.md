@@ -102,13 +102,10 @@ Now that we are done with JS basics. We will move back to XSS.
 ### Days 64 to 70:
 - [✔️] Enumeration [Day 13](https://github.com/najam1997/CyberSecurityResearch)
 - [✔️] Enumeration [Day 14](https://github.com/najam1997/CyberSecurityResearch)
-- [✔️] Practiced JS on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Practiced JS Further on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Completed JS Array problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Started Practicing JS Function problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
-- [✔️] Completed JS Function problems on [Leetcode](https://leetcode.com/studyplan/30-days-of-javascript/).
+- [⭕] 
 ## Week 11 (Client-Side Vulnerabilities and Reconnaissance):
 ### Days 71 to 77:
 - [⭕]
 ## Week 12 (Client-Side Vulnerabilities and Reconnaissance):
 ### Days 78 to 83:
+- [⭕]
