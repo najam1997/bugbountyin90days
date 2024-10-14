@@ -109,5 +109,5 @@ Now that we are done with JS basics. We will move back to XSS.
 ### Days 71 to 77:
 - [⭕]
 ## Week 12 (Client-Side Vulnerabilities and Reconnaissance):
-### Days 78 to 83:
+### Days 78 to 84:
 - [⭕]
